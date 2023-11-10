@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T11:27:28 IST" name="Default suite" finished-at="2023-11-08T11:27:29 IST" duration-ms="337">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T11:27:28 IST" name="Default test" finished-at="2023-11-08T11:27:29 IST" duration-ms="337">
+      <class name="praticeTestNG.TestNGPractice">
+        <test-method signature="sample2Test()[pri:-3, instance:praticeTestNG.TestNGPractice@6c6cb480]" started-at="2023-11-08T11:27:29 IST" name="sample2Test" finished-at="2023-11-08T11:27:29 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample2Test -->
+        <test-method signature="sample3Test()[pri:0, instance:praticeTestNG.TestNGPractice@6c6cb480]" started-at="2023-11-08T11:27:29 IST" name="sample3Test" finished-at="2023-11-08T11:27:29 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample3Test -->
+        <test-method signature="sample3Test()[pri:0, instance:praticeTestNG.TestNGPractice@6c6cb480]" started-at="2023-11-08T11:27:29 IST" name="sample3Test" finished-at="2023-11-08T11:27:29 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample3Test -->
+        <test-method signature="sample3Test()[pri:0, instance:praticeTestNG.TestNGPractice@6c6cb480]" started-at="2023-11-08T11:27:29 IST" name="sample3Test" finished-at="2023-11-08T11:27:29 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample3Test -->
+      </class> <!-- praticeTestNG.TestNGPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
