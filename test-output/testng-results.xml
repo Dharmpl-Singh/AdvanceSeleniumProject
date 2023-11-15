@@ -1,29 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-08T11:27:28 IST" name="Default suite" finished-at="2023-11-08T11:27:29 IST" duration-ms="337">
+  <suite started-at="2023-11-10T11:12:10 IST" name="Suite" finished-at="2023-11-10T11:14:49 IST" duration-ms="159126">
     <groups>
+      <group name="SmokeSuite">
+        <method signature="CreateContactTest1.createContactTest()[pri:0, instance:praticeTestNG.CreateContactTest1@1c1bbc4e]" name="createContactTest" class="praticeTestNG.CreateContactTest1"/>
+      </group> <!-- SmokeSuite -->
     </groups>
-    <test started-at="2023-11-08T11:27:28 IST" name="Default test" finished-at="2023-11-08T11:27:29 IST" duration-ms="337">
-      <class name="praticeTestNG.TestNGPractice">
-        <test-method signature="sample2Test()[pri:-3, instance:praticeTestNG.TestNGPractice@6c6cb480]" started-at="2023-11-08T11:27:29 IST" name="sample2Test" finished-at="2023-11-08T11:27:29 IST" duration-ms="44" status="PASS">
+    <test started-at="2023-11-10T11:12:10 IST" name="Test" finished-at="2023-11-10T11:14:49 IST" duration-ms="159126">
+      <class name="praticeTestNG.CreateContactTest1">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:praticeTestNG.CreateContactTest1@1c1bbc4e]" started-at="2023-11-10T11:12:10 IST" name="bsConfig" finished-at="2023-11-10T11:12:10 IST" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sample2Test -->
-        <test-method signature="sample3Test()[pri:0, instance:praticeTestNG.TestNGPractice@6c6cb480]" started-at="2023-11-08T11:27:29 IST" name="sample3Test" finished-at="2023-11-08T11:27:29 IST" duration-ms="7" status="PASS">
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:praticeTestNG.CreateContactTest1@1c1bbc4e]" started-at="2023-11-10T11:12:10 IST" name="bcConfig" finished-at="2023-11-10T11:13:03 IST" duration-ms="53328" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sample3Test -->
-        <test-method signature="sample3Test()[pri:0, instance:praticeTestNG.TestNGPractice@6c6cb480]" started-at="2023-11-08T11:27:29 IST" name="sample3Test" finished-at="2023-11-08T11:27:29 IST" duration-ms="11" status="PASS">
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:praticeTestNG.CreateContactTest1@1c1bbc4e]" started-at="2023-11-10T11:13:04 IST" name="bmConfig" finished-at="2023-11-10T11:13:27 IST" duration-ms="23504" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sample3Test -->
-        <test-method signature="sample3Test()[pri:0, instance:praticeTestNG.TestNGPractice@6c6cb480]" started-at="2023-11-08T11:27:29 IST" name="sample3Test" finished-at="2023-11-08T11:27:29 IST" duration-ms="19" status="PASS">
+        </test-method> <!-- bmConfig -->
+        <test-method signature="createContactTest()[pri:0, instance:praticeTestNG.CreateContactTest1@1c1bbc4e]" started-at="2023-11-10T11:13:28 IST" name="createContactTest" finished-at="2023-11-10T11:14:38 IST" duration-ms="70635" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sample3Test -->
-      </class> <!-- praticeTestNG.TestNGPractice -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- createContactTest -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:praticeTestNG.CreateContactTest1@1c1bbc4e]" started-at="2023-11-10T11:14:38 IST" name="amConfig" finished-at="2023-11-10T11:14:45 IST" duration-ms="6419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:praticeTestNG.CreateContactTest1@1c1bbc4e]" started-at="2023-11-10T11:14:45 IST" name="acConfig" finished-at="2023-11-10T11:14:49 IST" duration-ms="4001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:praticeTestNG.CreateContactTest1@1c1bbc4e]" started-at="2023-11-10T11:14:49 IST" name="asConfig" finished-at="2023-11-10T11:14:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- praticeTestNG.CreateContactTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
